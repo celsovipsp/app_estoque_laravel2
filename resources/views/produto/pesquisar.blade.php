@@ -12,7 +12,7 @@
     <div class="container">
     <h1 class="mt-2">Pesquisa de produtos</h1>
     @if(count(@produtos)== 0)
-        <div 
+        <div
     </div>
 </body>
 </html>
